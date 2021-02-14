@@ -1,1 +1,0 @@
-# karantanna-kt.github.io
