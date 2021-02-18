@@ -185,7 +185,7 @@ Navigation
 
 .navbar-brand {
     display: inline-block;
-    color: rgb(5, 5, 5);
+    font-style: rgb(5, 5, 5);
     padding-top: .3125rem;
     padding-bottom: .3125rem;
     margin-right: 1rem;
