@@ -178,13 +178,14 @@ Navigation
 ///////////////////////*/
 
 .navbar-light .navbar-nav .nav-link {
-    color: rgb(0, 0, 0);
+    color: rgb(5, 5, 5);
     font-weight: 700;
     letter-spacing: .04rem;
 }
 
 .navbar-brand {
     display: inline-block;
+    color: rgb(5, 5, 5);
     padding-top: .3125rem;
     padding-bottom: .3125rem;
     margin-right: 1rem;
